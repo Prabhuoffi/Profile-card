@@ -4,7 +4,7 @@ import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa';
 
 const Card = () => {
   const handleContactClick = () => {
-    window.location.href = "mailto:your.prabhudeveloper03@gmail.com";
+    window.location.href = "mailto:prabhudeveloper03@gmail.com";
   };
 
   return (
